@@ -49,15 +49,18 @@ class FootballSpider(scrapy.Spider):
         Yields:
             A dictionary containing the players's name and the school's name. 
         """
-        # Get the actor's name.
+        # Get the player's name.
         player = response.css('a.mini-header-comp__main-info-name::text').get()
 
-        # Only looks at movies and shows the actor has acted in. (Not produced, written, etc.)
+        offer = 0
+        # Looks at schools that gave offers. (Not produced, written, etc.)
         for school in response.css('.first_blk'):  
-            # Get the movie's name
+            # Get the schools's name
             s_name = school.css('a::text').get().strip()
+            offer += 1
 
             yield {
                 "name" : player,
-                "school" : s_name
+                "school" : s_name,
+                "committed" : (offer <= 1)
                 }
