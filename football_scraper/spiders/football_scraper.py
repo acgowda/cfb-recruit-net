@@ -23,7 +23,7 @@ class FootballSpider(scrapy.Spider):
 
     def parse_player_list(self, response):
         """
-        Callback used to process each actor included in the credits page.
+        Callback used to process each player on the current page.
 
         Args:
             response (Response): An object that represents an HTTP response, fed to the Spiders for processing
@@ -41,13 +41,13 @@ class FootballSpider(scrapy.Spider):
 
     def parse_player_page(self, response):
         """
-        Callback used to process each actor's credits page and read each movie or show they have acted in.
+        Callback used to process each player's college offer page and read name's of each school.
 
         Args:
             response (Response): An object that represents an HTTP response, fed to the Spiders for processing
 
         Yields:
-            A dictionary containing the players's name and the school's name. 
+            A dictionary containing the player's name and the school's name. 
         """
         # Get the player's name.
         player = response.css('a.mini-header-comp__main-info-name::text').get()
