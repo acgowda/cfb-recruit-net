@@ -1,10 +1,10 @@
-name,school,city,state
-Domani Jackson,Mater Dei,Santa Ana,CA
-Raleek Brown,Mater Dei,Santa Ana,CA
-Zion Branch,Bishop Gorman,Las Vegas,NV
-C.J. Williams,Mater Dei,Santa Ana,CA
-Fabian Ross,Bishop Gorman,Las Vegas,NV
-Devan Thompkins,Edison,Stockton,CA
-Garrison Madden,Dutchtown,Hampton,GA
-Cooper Lovelace,Butler C.C.,El Dorado,KS
-Atticus Bertrams,ProKick Australia,Australia,AUST
+name,school,city,state,ranking
+Domani Jackson,Mater Dei,Santa Ana,CA,0.9952
+Raleek Brown,Mater Dei,Santa Ana,CA,0.9808
+Zion Branch,Bishop Gorman,Las Vegas,NV,0.9758
+C.J. Williams,Mater Dei,Santa Ana,CA,0.9706
+Fabian Ross,Bishop Gorman,Las Vegas,NV,0.911
+Devan Thompkins,Edison,Stockton,CA,0.8759
+Garrison Madden,Dutchtown,Hampton,GA,0.8644
+Cooper Lovelace,Butler C.C.,El Dorado,KS,0
+Atticus Bertrams,ProKick Australia,Australia,AUST,0.8107

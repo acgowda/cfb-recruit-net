@@ -1,12 +1,12 @@
-name,school,city,state
-Kamari Ramsey,Sierra Canyon,Chatsworth,CA
-Jack Pedersen,Vista Murrieta,Murrieta,CA
-Jadyn Marshall,St. Mary's,Stockton,CA
-Justyn Martin,Inglewood,Inglewood,CA
-Carsen Ryan,American Fork,American Fork,UT
-Clint Stephens,Inglewood,Inglewood,CA
-Jalen Woods,St. John Bosco,Bellflower,CA
-Sam Yoon,Loyola,Los Angeles,CA
-Braden Pegan,San Juan Hills,San Juan Capistrano,CA
-Croix Stewart,Benicia,Benicia,CA
-Tomarion Harden,Inglewood,Inglewood,CA
+name,school,city,state,ranking
+Kamari Ramsey,Sierra Canyon,Chatsworth,CA,0.9322
+Jack Pedersen,Vista Murrieta,Murrieta,CA,0.9107
+Jadyn Marshall,St. Mary's,Stockton,CA,0.9021
+Justyn Martin,Inglewood,Inglewood,CA,0.902
+Carsen Ryan,American Fork,American Fork,UT,0.901
+Clint Stephens,Inglewood,Inglewood,CA,0.8916
+Jalen Woods,St. John Bosco,Bellflower,CA,0.8796
+Sam Yoon,Loyola,Los Angeles,CA,0.8785
+Braden Pegan,San Juan Hills,San Juan Capistrano,CA,0.8741
+Croix Stewart,Benicia,Benicia,CA,0.8611
+Tomarion Harden,Inglewood,Inglewood,CA,0.8611

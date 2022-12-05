@@ -1,31 +1,31 @@
-name,school,city,state
-Mykel Williams,Hardaway,Columbus,GA
-Malaki Starks,Jefferson,Jefferson,GA
-Marvin Jones Jr.,American Heritage,Fort Lauderdale,FL
-Jaheim Singletary,Riverside,Jacksonville,FL
-Daylen Everette,IMG Academy,Bradenton,FL
-Earnest Greene,St. John Bosco,Bellflower,CA
-Jalon Walker,Salisbury,Salisbury,NC
-Bear Alexander,IMG Academy,Bradenton,FL
-Branson Robinson,Germantown,Madison,MS
-Julian Humphrey,Clear Lake,Houston,TX
-Oscar Delp,West Forsyth,Cumming,GA
-Christen Miller,Cedar Grove,Ellenwood,GA
-Gunner Stockton,Rabun County,Tiger,GA
-C.J. Washington,Cedartown,Cedartown,GA
-Marcus Washington,Grovetown,Grovetown,GA
-Darris Smith,Appling County,Baxley,GA
-Chandler Smith,Mt. Dora,Mount Dora,FL
-De'Nylon Morrissette,North Cobb,Kennesaw,GA
-JaCorey Thomas,Boone,Orlando,FL
-Carlton Madden,Cedar Grove,Ellenwood,GA
-Aliou Bah,IMG Academy,Bradenton,FL
-Jacob Hood,Hillsboro,Nashville,TN
-Dillon Bell,The Kinkaid School,Houston,TX
-EJ Lightsey,Fitzgerald,Fitzgerald,GA
-Andrew Paul,Parish Episcopal School,Dallas,TX
-Shone Washington,Warren Easton,New Orleans,LA
-Drew Bobo,Auburn,Auburn,AL
-Cole Speer,Calhoun,Calhoun,GA
-Griffin Scroggs,Grayson,Loganville,GA
-Brett Thorson,ProKick Australia,Australia,AUST
+name,school,city,state,ranking
+Mykel Williams,Hardaway,Columbus,GA,0.9958
+Malaki Starks,Jefferson,Jefferson,GA,0.9905
+Marvin Jones Jr.,American Heritage,Fort Lauderdale,FL,0.9887
+Jaheim Singletary,Riverside,Jacksonville,FL,0.9878
+Daylen Everette,IMG Academy,Bradenton,FL,0.9874
+Earnest Greene,St. John Bosco,Bellflower,CA,0.9805
+Jalon Walker,Salisbury,Salisbury,NC,0.9803
+Bear Alexander,IMG Academy,Bradenton,FL,0.9782
+Branson Robinson,Germantown,Madison,MS,0.9729
+Julian Humphrey,Clear Lake,Houston,TX,0.9655
+Oscar Delp,West Forsyth,Cumming,GA,0.9577
+Christen Miller,Cedar Grove,Ellenwood,GA,0.956
+Gunner Stockton,Rabun County,Tiger,GA,0.9506
+C.J. Washington,Cedartown,Cedartown,GA,0.9441
+Marcus Washington,Grovetown,Grovetown,GA,0.9412
+Darris Smith,Appling County,Baxley,GA,0.9352
+Chandler Smith,Mt. Dora,Mount Dora,FL,0.9135
+De'Nylon Morrissette,North Cobb,Kennesaw,GA,0.9131
+JaCorey Thomas,Boone,Orlando,FL,0.9
+Carlton Madden,Cedar Grove,Ellenwood,GA,0.8973
+Aliou Bah,IMG Academy,Bradenton,FL,0.8971
+Jacob Hood,Hillsboro,Nashville,TN,0.8902
+Dillon Bell,The Kinkaid School,Houston,TX,0.887
+EJ Lightsey,Fitzgerald,Fitzgerald,GA,0.8848
+Andrew Paul,Parish Episcopal School,Dallas,TX,0.8826
+Shone Washington,Warren Easton,New Orleans,LA,0.8785
+Drew Bobo,Auburn,Auburn,AL,0.8748
+Cole Speer,Calhoun,Calhoun,GA,0.8722
+Griffin Scroggs,Grayson,Loganville,GA,0.8693
+Brett Thorson,ProKick Australia,Australia,AUST,0.8293

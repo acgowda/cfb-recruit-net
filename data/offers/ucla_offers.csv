@@ -1,71 +1,71 @@
-name,school,city,state
-Raleek Brown,Mater Dei,Santa Ana,CA
-Jaydn Ott,Norco,Norco,CA
-Tomarion Harden,Inglewood,Inglewood,CA
-Tetairoa McMillan,Servite,Anaheim,CA
-C.J. Williams,Mater Dei,Santa Ana,CA
-Tobias Merriweather,Union,Camas,WA
-Darrius Clemons,Westview,Portland,OR
-Kyler Kasper,Williams Field,Gilbert,AZ
-Jadyn Marshall,St. Mary's,Stockton,CA
-Braden Pegan,San Juan Hills,San Juan Capistrano,CA
-AJ Jones,Colony,Ontario,CA
-Jack Pedersen,Vista Murrieta,Murrieta,CA
-Ryan Otton,Tumwater,Olympia,WA
-Sam Roush,Lipscomb Academy,Nashville,TN
-Colston Loveland,Gooding,Gooding,ID
-Carsen Ryan,American Fork,American Fork,UT
-Austin Terry,Tumwater,Olympia,WA
-Tyler Powell,Brophy College Preparatory,Phoenix,AZ
-Josh Conerly Jr.,Rainier Beach,Seattle,WA
-Jake Taylor,Bishop Gorman,Las Vegas,NV
-Sam Yoon,Loyola,Los Angeles,CA
-Eric Wilder,Syracuse,Syracuse,UT
-Domani Jackson,Mater Dei,Santa Ana,CA
-Ephesians Prysock,Bishop Alemany,Mission Hills,CA
-Benjamin Morrison,Brophy College Preparatory,Phoenix,AZ
-Jomarion Briggs,Lincoln,Stockton,CA
-Cameron Sampson,Capital Christian,Sacramento,CA
-Zion Branch,Bishop Gorman,Las Vegas,NV
-Kamari Ramsey,Sierra Canyon,Chatsworth,CA
-Zeke Berry,De La Salle,Concord,CA
-Larry Turner-Gooden,Bishop Alemany,Mission Hills,CA
-Croix Stewart,Benicia,Benicia,CA
-Clint Stephens,Inglewood,Inglewood,CA
-Cooper Barkate,Mater Dei,Santa Ana,CA
-Mekhi Fox,Pasadena,Pasadena,CA
-Carson Tabaracci,Park City,Park City,UT
-Braydon Brus,Glendora,Glendora,CA
-Devin Brown,Corner Canyon,Draper,UT
-Maalik Murphy,Junipero Serra,Gardena,CA
-Tayven Jackson,Center Grove,Greenwood,IN
-Nate Johnson,Clovis,Clovis,CA
-Justyn Martin,Inglewood,Inglewood,CA
-Earnest Greene,St. John Bosco,Bellflower,CA
-George Maile,Bingham,South Jordan,UT
-Vega Ioane,Graham-Kapowsin,Graham,WA
-Sioape Vatikani,Bishop Manogue,Reno,NV
-Lander Barton,Brighton,Salt Lake City,UT
-Niuafe Tuihalamaka,Bishop Alemany,Mission Hills,CA
-Tevarua Tafiti,Punahou,Honolulu,HI
-Robby Snelling,McQueen,Reno,NV
-Dishawn Misa,Eastside Catholic,Sammamish,WA
-Harrison Taggart,Corner Canyon,Draper,UT
-Lamar Washington,Compass Prep,Chandler,AZ
-Jalen Woods,St. John Bosco,Bellflower,CA
-Kaeo Akana,President Theodore Roosevelt,Honolulu,HI
-Eoghan Kerry,Mater Dei,Santa Ana,CA
-DeAndre Gill,Kentwood,Kent,WA
-Benjamin Hudson,Bishop Gorman,Las Vegas,NV
-Jeremiah Alexander,Thompson,Alabaster,AL
-David Bailey,Mater Dei,Santa Ana,CA
-Cyrus Moss,Bishop Gorman,Las Vegas,NV
-Curlee Thomas,Nolan Catholic,Fort Worth,TX
-Anthony Lucas,Chaparral,Scottsdale,AZ
-Hero Kanu,Santa Margarita Catholic,Rancho Santa Margarita,CA
-Ben Roberts,East,Salt Lake City,UT
-Jaxson Moi,Cathedral Catholic,San Diego,CA
-Andrew Savaiinaea,Graham-Kapowsin,Graham,WA
-Zach Rowell,Torrey Pines,Encinitas,CA
-Dallas Vakalahi,West,Salt Lake City,UT
-Jacob Rich Kongaika,Mater Dei,Santa Ana,CA
+name,school,city,state,ranking
+Raleek Brown,Mater Dei,Santa Ana,CA,0.9808
+Jaydn Ott,Norco,Norco,CA,0.9049
+Tomarion Harden,Inglewood,Inglewood,CA,0.8611
+Tetairoa McMillan,Servite,Anaheim,CA,0.9779
+C.J. Williams,Mater Dei,Santa Ana,CA,0.9706
+Tobias Merriweather,Union,Camas,WA,0.9512
+Darrius Clemons,Westview,Portland,OR,0.9422
+Kyler Kasper,Williams Field,Gilbert,AZ,0.9401
+Jadyn Marshall,St. Mary's,Stockton,CA,0.9021
+Braden Pegan,San Juan Hills,San Juan Capistrano,CA,0.8741
+AJ Jones,Colony,Ontario,CA,0.8685
+Jack Pedersen,Vista Murrieta,Murrieta,CA,0.9107
+Ryan Otton,Tumwater,Olympia,WA,0.9085
+Sam Roush,Lipscomb Academy,Nashville,TN,0.9018
+Colston Loveland,Gooding,Gooding,ID,0.9011
+Carsen Ryan,American Fork,American Fork,UT,0.901
+Austin Terry,Tumwater,Olympia,WA,0.8641
+Tyler Powell,Brophy College Preparatory,Phoenix,AZ,0.8478
+Josh Conerly Jr.,Rainier Beach,Seattle,WA,0.9918
+Jake Taylor,Bishop Gorman,Las Vegas,NV,0.9431
+Sam Yoon,Loyola,Los Angeles,CA,0.8785
+Eric Wilder,Syracuse,Syracuse,UT,0.8567
+Domani Jackson,Mater Dei,Santa Ana,CA,0.9952
+Ephesians Prysock,Bishop Alemany,Mission Hills,CA,0.908
+Benjamin Morrison,Brophy College Preparatory,Phoenix,AZ,0.9
+Jomarion Briggs,Lincoln,Stockton,CA,0.8515
+Cameron Sampson,Capital Christian,Sacramento,CA,0.8463
+Zion Branch,Bishop Gorman,Las Vegas,NV,0.9758
+Kamari Ramsey,Sierra Canyon,Chatsworth,CA,0.9322
+Zeke Berry,De La Salle,Concord,CA,0.9313
+Larry Turner-Gooden,Bishop Alemany,Mission Hills,CA,0.9039
+Croix Stewart,Benicia,Benicia,CA,0.8611
+Clint Stephens,Inglewood,Inglewood,CA,0.8916
+Cooper Barkate,Mater Dei,Santa Ana,CA,0.8889
+Mekhi Fox,Pasadena,Pasadena,CA,0.888
+Carson Tabaracci,Park City,Park City,UT,0.8781
+Braydon Brus,Glendora,Glendora,CA,0.8763
+Devin Brown,Corner Canyon,Draper,UT,0.9808
+Maalik Murphy,Junipero Serra,Gardena,CA,0.9292
+Tayven Jackson,Center Grove,Greenwood,IN,0.9221
+Nate Johnson,Clovis,Clovis,CA,0.9124
+Justyn Martin,Inglewood,Inglewood,CA,0.902
+Earnest Greene,St. John Bosco,Bellflower,CA,0.9805
+George Maile,Bingham,South Jordan,UT,0.8926
+Vega Ioane,Graham-Kapowsin,Graham,WA,0.8796
+Sioape Vatikani,Bishop Manogue,Reno,NV,0.8741
+Lander Barton,Brighton,Salt Lake City,UT,0.9587
+Niuafe Tuihalamaka,Bishop Alemany,Mission Hills,CA,0.9373
+Tevarua Tafiti,Punahou,Honolulu,HI,0.9079
+Robby Snelling,McQueen,Reno,NV,0.9
+Dishawn Misa,Eastside Catholic,Sammamish,WA,0.8949
+Harrison Taggart,Corner Canyon,Draper,UT,0.8943
+Lamar Washington,Compass Prep,Chandler,AZ,0.8904
+Jalen Woods,St. John Bosco,Bellflower,CA,0.8796
+Kaeo Akana,President Theodore Roosevelt,Honolulu,HI,0.8785
+Eoghan Kerry,Mater Dei,Santa Ana,CA,0.8652
+DeAndre Gill,Kentwood,Kent,WA,0.86
+Benjamin Hudson,Bishop Gorman,Las Vegas,NV,0.8433
+Jeremiah Alexander,Thompson,Alabaster,AL,0.9911
+David Bailey,Mater Dei,Santa Ana,CA,0.9718
+Cyrus Moss,Bishop Gorman,Las Vegas,NV,0.971
+Curlee Thomas,Nolan Catholic,Fort Worth,TX,0.8759
+Anthony Lucas,Chaparral,Scottsdale,AZ,0.9757
+Hero Kanu,Santa Margarita Catholic,Rancho Santa Margarita,CA,0.9502
+Ben Roberts,East,Salt Lake City,UT,0.8937
+Jaxson Moi,Cathedral Catholic,San Diego,CA,0.8819
+Andrew Savaiinaea,Graham-Kapowsin,Graham,WA,0.8741
+Zach Rowell,Torrey Pines,Encinitas,CA,0.8719
+Dallas Vakalahi,West,Salt Lake City,UT,0.8607
+Jacob Rich Kongaika,Mater Dei,Santa Ana,CA,0.8417

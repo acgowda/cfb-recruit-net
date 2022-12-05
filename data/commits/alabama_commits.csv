@@ -1,27 +1,27 @@
-name,school,city,state
-Jeremiah Alexander,Thompson,Alabaster,AL
-Jihaad Campbell,IMG Academy,Bradenton,FL
-Ty Simpson,Westview,Martin,TN
-Aaron Anderson,Edna Karr,New Orleans,LA
-Elijah Pritchett,Carver,Columbus,GA
-Emmanuel Henderson,Geneva County,Hartford,AL
-Isaiah Bond,Buford,Buford,GA
-Shazz Preston,St. James,Saint James,LA
-Tyler Booker,IMG Academy,Bradenton,FL
-Khurtiss Perry,Pike Road,Pike Road,AL
-Jaheim Oatis,Columbia,Columbia,MS
-Shawn Murphy,Unity Reed,Manassas,VA
-Kobe Prentice,Calera,Calera,AL
-Kendrick Law,Captain Shreve,Shreveport,LA
-Jamarion Miller,Tyler Legacy,Tyler,TX
-Earl Little Jr.,American Heritage,Fort Lauderdale,FL
-Trequon Fegans,Thompson,Alabaster,AL
-Amari Niblack,Lakewood,Saint Petersburg,FL
-Antonio Kite,Anniston,Anniston,AL
-Isaiah Hastings,Clearwater Academy International,Clearwater,FL
-Elijah Brown,Wayne,Dayton,OH
-Dayne Shor,Denmark,Alpharetta,GA
-Jake Pope,Buford,Buford,GA
-Danny Lewis,Westgate,New Iberia,LA
-Miles Kitselman,Hutchinson C.C.,Hutchinson,KS
-Walter Bob,Acadiana,Lafayette,LA
+name,school,city,state,ranking
+Jeremiah Alexander,Thompson,Alabaster,AL,0.9911
+Jihaad Campbell,IMG Academy,Bradenton,FL,0.9899
+Ty Simpson,Westview,Martin,TN,0.9883
+Aaron Anderson,Edna Karr,New Orleans,LA,0.9832
+Elijah Pritchett,Carver,Columbus,GA,0.9825
+Emmanuel Henderson,Geneva County,Hartford,AL,0.9809
+Isaiah Bond,Buford,Buford,GA,0.9773
+Shazz Preston,St. James,Saint James,LA,0.9768
+Tyler Booker,IMG Academy,Bradenton,FL,0.9766
+Khurtiss Perry,Pike Road,Pike Road,AL,0.9722
+Jaheim Oatis,Columbia,Columbia,MS,0.971
+Shawn Murphy,Unity Reed,Manassas,VA,0.9709
+Kobe Prentice,Calera,Calera,AL,0.9687
+Kendrick Law,Captain Shreve,Shreveport,LA,0.9629
+Jamarion Miller,Tyler Legacy,Tyler,TX,0.9628
+Earl Little Jr.,American Heritage,Fort Lauderdale,FL,0.9552
+Trequon Fegans,Thompson,Alabaster,AL,0.953
+Amari Niblack,Lakewood,Saint Petersburg,FL,0.9416
+Antonio Kite,Anniston,Anniston,AL,0.9337
+Isaiah Hastings,Clearwater Academy International,Clearwater,FL,0.9155
+Elijah Brown,Wayne,Dayton,OH,0.9012
+Dayne Shor,Denmark,Alpharetta,GA,0.8933
+Jake Pope,Buford,Buford,GA,0.8926
+Danny Lewis,Westgate,New Iberia,LA,0.877
+Miles Kitselman,Hutchinson C.C.,Hutchinson,KS,0
+Walter Bob,Acadiana,Lafayette,LA,0.8987
