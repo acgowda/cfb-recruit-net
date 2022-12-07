@@ -3,6 +3,8 @@ import numpy as np
 import networkx as nx
 
 def get_data(college):
+    """Returns offer and commit data for a college."""
+
     offers = pd.read_csv(f"data/offers/{college}_offers.csv")
     commits = pd.read_csv(f"data/commits/{college}_commits.csv")
 
@@ -15,6 +17,8 @@ def get_data(college):
     return offers, commits
 
 def get_graph(college, edge='ranking'):
+    """Returns a graph for a college with commits and offers."""
+
     offers, commits = get_data(college)
     
     G_offer = nx.from_pandas_edgelist(offers, source = 'col', target = 'name', edge_attr=edge, create_using = nx.DiGraph())
@@ -25,21 +29,29 @@ def get_graph(college, edge='ranking'):
     return G
 
 def get_weighted_reciprocity(college):
+    """Returns the weighted reciprocity of a college's network"""
+
     offers, commits = get_data(college)
 
     return 2 * np.sum(commits['ranking']) / (np.sum(commits['ranking']) + np.sum(offers['ranking'])) 
 
 def get_reciprocity(college):
+    """Returns the reciprocity of a college's network"""
+
     offers, commits = get_data(college)
 
     return 2 * len(commits['ranking']) / (len(commits['ranking']) + len(offers['ranking']))
 
 def get_avg_rank(college):
+    """Returns the average ranking of players recieving offers and players who commit for a college"""
+
     offers, commits = get_data(college)
 
     return np.mean(offers['ranking']), np.mean(commits['ranking'])
 
 def get_reciprocity_df(colleges):
+    """Returns a DataFrame containing reciprocity and ranking measures for the given colleges"""
+    
     rec = pd.DataFrame(colleges, columns=['colleges'])
 
     rec['rec'] = rec.apply(lambda row : get_reciprocity(row['colleges']), axis = 1)
