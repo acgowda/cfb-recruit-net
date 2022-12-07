@@ -52,10 +52,11 @@ def get_avg_rank(college, year):
 def get_reciprocity_df(colleges, year):
     """Returns a DataFrame containing reciprocity and ranking measures for the given colleges"""
 
-    rec = pd.DataFrame(colleges, columns=['colleges'])
+    rec = pd.DataFrame(colleges, columns=['college'])
 
-    rec['rec'] = rec.apply(lambda row : get_reciprocity(row['colleges'], year), axis = 1)
-    rec['w_rec'] = rec.apply(lambda row : get_weighted_reciprocity(row['colleges'], year), axis = 1)
-    rec['offer_rank'], rec['commit_rank']= zip(*rec.apply(lambda row : get_avg_rank(row['colleges'], year), axis = 1))
+    rec['rec'] = rec.apply(lambda row : get_reciprocity(row['college'], year), axis = 1)
+    rec['w_rec'] = rec.apply(lambda row : get_weighted_reciprocity(row['college'], year), axis = 1)
+    rec['offer_rank'], rec['commit_rank']= zip(*rec.apply(lambda row : get_avg_rank(row['college'], year), axis = 1))
+    rec['year'] = year
     
     return rec
