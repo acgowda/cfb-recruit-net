@@ -4,13 +4,14 @@ import re
 class RecruitSpider(scrapy.Spider):
     name = 'recruit_spider'
     
-    college = 'ucla'
+    college = 'georgia'
+    year = 2022
     
     # To scrape offers
-    start_urls = [f'https://247sports.com/college/{college}/Season/2022-Football/Offers/?ViewPath=~/Views/SkyNet/RecruitInterest/_SimpleDetailedSetForSeason.ascx']
+    start_urls = [f'https://247sports.com/college/{college}/Season/{year}-Football/Offers/?ViewPath=~/Views/SkyNet/RecruitInterest/_SimpleDetailedSetForSeason.ascx']
 
     # To scrape commits
-    # start_urls = [f'https://247sports.com/college/{college}/Season/2022-Football/Commits/']
+    # start_urls = [f'https://247sports.com/college/{college}/Season/{year}-Football/Commits/']
 
     def parse(self, response):
         """
